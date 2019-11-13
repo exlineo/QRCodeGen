@@ -1,0 +1,19 @@
+{
+  "name": "spiralqrcode",
+  "version": "0.1.0",
+  "description": "Génération de QRCode pour l'exposition Cap Métiers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "qrcode",
+    "js"
+  ],
+  "author": "exlineo",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode": "^1.4.2"
+  }
+}
